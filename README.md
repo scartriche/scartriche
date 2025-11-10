@@ -33,7 +33,7 @@ Looking for a **Data Science / AI internship starting April 2026** to tackle rea
 ---
 
 ### 📂 Featured Projects
-- **[NeuralSpeech](https://github.com/scartriche/NeuralSpeech)** – Deep Learning voice generation project  
+- **[NeuralSpeech](https://github.com/scartriche/NeuralSpeech)** – Deep Learning vocal keyword recognition project  
 - **[PromptForge-HGenAI-Hackathon](https://github.com/scartriche/PromptForge-HGenAI-Hackathon)** – Collaborative AI project for a Hackathon  
 
 
